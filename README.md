@@ -1,8 +1,16 @@
 # CellCDmT
+A Cell-cell communication inference computing framwork.
+
 ## Overview of CellCDmT
 [simple_flowchat.pdf](https://github.com/wallwei/CellCDmT/blob/5330dbf01420a5110fdb7cd820aca78b7b83d7b6/simple_flowchat.pdf)
 
-## Environment
+## Classification for LRPs
+[classifier.pdf](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/classifier.pdf)
+
+## CCC inference
+[flowchart_CCC.pdf](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/flowchart_CCC.pdf)
+
+# Environment
 Python == 3.8.20
 
 numpy=1.19.5
@@ -19,8 +27,10 @@ ngboost=0.3.6
 
 xgboost=2.1.1
 
-## Usage
+# Usage
+
 ### 1.We obtained LRP features from [PyFeat](https://github.com/mrzResearchArena/PyFeat)
+
 ### 2.Run CellCDmT to obtain LRIs,for example, run case_study_1:
 ```python
 python code/case_study_1.py
