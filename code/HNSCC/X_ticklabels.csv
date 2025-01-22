@@ -1,0 +1,16 @@
+HNSCC cells-Fibrobalsts
+HNSCC cells-B cells
+HNSCC cells-Myocytes
+HNSCC cells-Macrophages
+HNSCC cells-Endothelial cells
+HNSCC cells-T cells
+HNSCC cells-Dendritic cells
+HNSCC cells-Mast cells
+Fibrobalsts-HNSCC cells
+B cells-HNSCC cells
+Myocytes-HNSCC cells
+Macrophages-HNSCC cells
+Endothelial cells-HNSCC cells
+T cells-HNSCC cells
+Dendritic cells-HNSCC cells
+Mast cells-HNSCC cells
