@@ -17,19 +17,19 @@ A cell-cell communication inference computing framwork.
 # Environment
 Python == 3.8.20
 
-numpy=1.19.5
+numpy == 1.19.5
 
-pandas=1.4.4
+pandas == 1.4.4
 
-scikit-learn=1.2.2
+scikit-learn == 1.2.2
 
-deep-forest=0.1.7
+deep-forest == 0.1.7
 
-catboost=1.2.3
+catboost == 1.2.3
 
-ngboost=0.3.6
+ngboost == 0.3.6
 
-xgboost=2.1.1
+xgboost == 2.1.1
 
 # Data
 1. scRNA-seq can obtain from [GEO datasets](https://www.ncbi.nlm.nih.gov/gds)
