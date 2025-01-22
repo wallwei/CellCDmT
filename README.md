@@ -44,7 +44,7 @@ xgboost == 2.1.1
 python code/case_study_1.py
 ```
 
-## 3.To combining single-cell expression matrix to filter LRIs:
+## 3.Combining single-cell expression matrix to filter LRIs:
 ```python
 python code/breast_case_study/LRI_filter.py
 ```
