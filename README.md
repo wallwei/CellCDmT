@@ -1,5 +1,5 @@
 # CellCDmT
-A Cell-cell communication inference computing framwork.
+A cell-cell communication inference computing framwork.
 
 ## Overview of CellCDmT
 
