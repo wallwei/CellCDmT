@@ -2,16 +2,16 @@
 A Cell-cell communication inference computing framwork.
 
 ## Overview of CellCDmT
-[simple_flowchat.png](https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/simple_flowchat.png)
-<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/simple_flowchat.png" width = 60%>
+
+<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/simple_flowchat.png" width = 50%>
 
 ## Classification for LRPs
-[classifier.png](https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/classifier.png)
-<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/classifier.png" width = 60%>
+
+<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/classifier.png" width = 50%>
 
 ## CCC inference
-[flowchart_CCC.png](https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/flowchart_CCC.png)
-<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/flowchart_CCC.png" width = 60%>
+
+<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/flowchart_CCC.png" width = 50%>
 
 
 # Environment
