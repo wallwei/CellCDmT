@@ -31,6 +31,10 @@ ngboost=0.3.6
 
 xgboost=2.1.1
 
+# Data
+1. scRNA-seq can obtain from [GEO datasets](https://www.ncbi.nlm.nih.gov/gds)
+2. Feature extraction tools([PyFeat](https://github.com/mrzResearchArena/PyFeat))
+
 # Usage
 
 ### 1.We obtained LRP features from [PyFeat](https://github.com/mrzResearchArena/PyFeat)
