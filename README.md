@@ -37,14 +37,19 @@ xgboost == 2.1.1
 
 # Usage
 
-### 1.We obtained LRP features by [PyFeat](https://github.com/mrzResearchArena/PyFeat)
+## 1.We obtained LRP features by [PyFeat](https://github.com/mrzResearchArena/PyFeat)
 
-### 2.Run CellCDmT to obtain LRIs,for example, run case_study_1:
+## 2.Run CellCDmT to obtain LRIs,for example, run case_study_1:
 ```python
 python code/case_study_1.py
 ```
 
-### 3.To get CCC score matrix
+## 3.To combining single-cell expression matrix to filter LRIs:
+```python
+python code/breast_case_study/LRI_filter.py
+```
+
+## 4.To get CCC score matrix and visualize CCC network
 ```python
 python code/breast_case_study/3point-method.py
 ```
