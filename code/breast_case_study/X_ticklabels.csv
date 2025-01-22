@@ -1,0 +1,10 @@
+Cancer cells-Immune cells
+Cancer cells-Stomal cells
+Cancer cells-T cells
+Cancer cells-B cells
+Cancer cells-Myeloid cells
+Immune cells-Cancer cells
+Stomal cells-Cancer cells
+T cells-Cancer cells
+B cells-Cancer cells
+Myeloid cells-Cancer cells
