@@ -37,7 +37,7 @@ xgboost=2.1.1
 
 # Usage
 
-### 1.We obtained LRP features from [PyFeat](https://github.com/mrzResearchArena/PyFeat)
+### 1.We obtained LRP features by [PyFeat](https://github.com/mrzResearchArena/PyFeat)
 
 ### 2.Run CellCDmT to obtain LRIs,for example, run case_study_1:
 ```python
