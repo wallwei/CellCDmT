@@ -2,13 +2,13 @@
 A Cell-cell communication inference computing framwork.
 
 ## Overview of CellCDmT
-[simple_flowchat.pdf](https://github.com/wallwei/CellCDmT/blob/5330dbf01420a5110fdb7cd820aca78b7b83d7b6/simple_flowchat.pdf)
+[simple_flowchat.png](https://github.com/wallwei/CellCDmT/blob/5330dbf01420a5110fdb7cd820aca78b7b83d7b6/simple_flowchat.png)
 
 ## Classification for LRPs
-[classifier.pdf](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/classifier.pdf)
+[classifier.png](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/classifier.png)
 
 ## CCC inference
-[flowchart_CCC.pdf](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/flowchart_CCC.pdf)
+[flowchart_CCC.png](https://github.com/wallwei/CellCDmT/blob/b2f3e5c0fe0b539395480feb709cb2ca105101a8/flowchart_CCC.png)
 
 # Environment
 Python == 3.8.20
