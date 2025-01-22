@@ -3,7 +3,7 @@ library(Seurat)
 library(Matrix)
 library(dplyr)
 library(CellChat)
-sdata <- readRDS(file = "melanoma.RDS")
+sdata <- readRDS(file = "breast.RDS")
 
 sdata[["group"]] <- sdata$orig.ident
 print(sdata$group)
