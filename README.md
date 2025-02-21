@@ -27,8 +27,6 @@ deep-forest=0.1.7
 
 catboost=1.2.3
 
-ngboost=0.3.6
-
 xgboost=2.1.1
 
 # Data
