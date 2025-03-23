@@ -11,7 +11,7 @@ A cell-cell communication inference computing framwork.
 
 ## CCC inference
 
-<img src="https://github.com/wallwei/CellCDmT/blob/9fed3e871cfdff2ddd9a7656da6dfc9c7f634d9f/flowchart_CCC.png" width = 50%>
+<img src="https://github.com/wallwei/CellCDmT/blob/a5e6f1d3e6af7dcede6cdc52e968ca5ec1df562d/flowchat_CCC.jpg" width = 50%>
 
 
 # Environment
